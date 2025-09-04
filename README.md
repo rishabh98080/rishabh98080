@@ -4,8 +4,8 @@ Hi, I'm Rishabh Kumar! 👋
 I'm a passionate B.Tech CSIT student at SOA ITER, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
 <b>🚀 About Me</b>
-<br>
-🔭  I'm currently pursuing my Bachelor's in Computer Science and Information Technology at SOA ITER.
+<br><br>
+<h3></h3><i>🔭  I'm currently pursuing my Bachelor's in Computer Science and Information Technology at SOA ITER.
 
 🌱  I'm always looking to learn and grow, with a keen interest in web development, data structures, and algorithms.
 
@@ -13,8 +13,8 @@ I'm a passionate B.Tech CSIT student at SOA ITER, driven by a curiosity for tech
 
 👯  I'm actively looking to collaborate on open-source projects. Feel free to reach out if you have something in mind!
  
-💬  Ask me about anything related to coding, tech trends, or how to get started in computer science.
-
+💬  Ask me about anything related to coding, tech trends, or how to get started in computer science.</i>
+</h3>
 💻 My Skills
 Category
 
