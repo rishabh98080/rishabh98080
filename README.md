@@ -14,8 +14,8 @@ I'm a passionate B.Tech CSIT student at SOA ITER, driven by a curiosity for tech
 👯  I'm actively looking to collaborate on open-source projects. Feel free to reach out if you have something in mind!
  
 💬  Ask me about anything related to coding, tech trends, or how to get started in computer science.</i>
-</h3>
-💻 My Skills
+</h3><br><br>
+<b>💻 My Skills</b>
 Category
 
 Skills & Tools
