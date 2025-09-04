@@ -42,7 +42,7 @@
 
   <br>
   
-  <p align="center">
+  <p align="left">
     <img src="https://komarev.com/ghpvc/?username=rishabh95080&color=blueviolet" alt="Profile views">
   </p>
 
