@@ -1,40 +1,54 @@
-# Hi, I'm <RISHABH KUMAR>! 👋
+Hi, I'm Rishabh Kumar! 👋
+I'm a passionate B.Tech CSIT student at SOA ITER, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-I am a passionate B.Tech CSIT student at SOA ITER, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+🚀 About Me
+🔭 I'm currently pursuing my Bachelor's in Computer Science and Information Technology at SOA ITER.
 
-![<rishabh95080>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+🌱 I'm always looking to learn and grow, with a keen interest in web development, data structures, and algorithms.
 
-## 🚀 About Me
+✍️ I love to share my knowledge and experiences through writing, focusing on topics in tech and education.
 
-- 🔭 I'm currently pursuing my Bachelor's in Computer Science and Information Technology at SOA ITER.
+👯 I'm actively looking to collaborate on open-source projects. Feel free to reach out if you have something in mind!
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,React,Python,wasm)](https://skillicons.dev)
+💬 Ask me about anything related to coding, tech trends, or how to get started in computer science.
 
-## 🌱 Currently Exploring
+💻 My Skills
+Category
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
+Skills & Tools
 
+Languages
 
-## 📬 Get in Touch
+ Python, Java, JavaScript, SQL
 
-- Connect with me on [Twitter]([(https://x.com/Rishabh78572143)])
+Web Development
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+HTML, CSS, React, Node.js with AI assistance
 
+Databases
 
+MySQL
 
-<!--
+Tools & Platforms
 
-Here are some ideas to get you started:
+Git, GitHub, VS Code, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Projects
+Here are a few projects I've been working on. You can find more on my profile!
+
+AppImage Manager : AppImage Manager for managing(install/Uninstall  permanently) standlone AppImage softwares.
+
+Universal Media Downloader : A Universal Media Downloader website that allows to dowload videos and other media files from websites.
+
+Banking System : Created a CLI-based Banking System with SQL and Java.
+
+📫 Get In Touch
+GitHub: rishabh95080
+
+LinkedIn: linkedin.com/in/rishabh-kumar-064409330
+
+Email: rishabh24273239pandey@gmail.com
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Drishabh95080%26color%3Dblueviolet" alt="Profile views" />
+</p>
