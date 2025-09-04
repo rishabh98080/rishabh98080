@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <h1><b>Rishabh Kumar</b> <a href="https://komarev.com/ghpvc/?username=rishabh95080&color=blueviolet" alt="Profile views">👋</a></h1>
   <p><i>A B.Tech CSIT student passionate about technology and writing.</i></p>
   
