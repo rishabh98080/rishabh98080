@@ -17,9 +17,9 @@
   
   | Category | Skills & Tools |
   | :--- | :--- |
-  | **Languages** | Python, Java, JavaScript, SQL |
-  | **Web Development** | HTML, CSS, React, Node.js |
-  | **Databases** | MySQL |
+  | **Languages** | Python, Java, JavaScript|
+  | **Web Development** | HTML, CSS, React, Node.js, Express.js, Next.js, SpringBoot(Beginner) |
+  | **Databases** | MySQL, MongoDB, PostGres(Basic)|
   | **Tools & Platforms** | Git, GitHub, VS Code, Linux |
   
   ---
