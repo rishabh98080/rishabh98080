@@ -1,13 +1,13 @@
 <div align="left">
   <h1><b>Rishabh Kumar</b> <a href="https://komarev.com/ghpvc/?username=rishabh95080&color=blueviolet" alt="Profile views">👋</a></h1>
-  <p><i>A B.Tech CSIT student passionate about technology and writing.</i></p>
+  <p><i>A third-year B.Tech CSIT student passionate about technology and writing.</i></p>
   
   ---
   
   ### 🚀 About Me
   
   - 🎓 Currently pursuing a Bachelor's in **Computer Science and Information Technology** at SOA ITER.
-  - 🌱 Always looking to learn and grow, with a keen interest in **web development, data structures, and algorithms**.
+  - 🌱 Always looking to learn and grow, with a keen interest in **web development, data structures, algorithms, and AI/ML**.
   - ✍️ I love to share my knowledge and experiences through writing, focusing on topics in **tech and education**.
   - 🤝 Actively looking to collaborate on **open-source projects**. Feel free to reach out if you have something in mind!
   
@@ -17,9 +17,10 @@
   
   | Category | Skills & Tools |
   | :--- | :--- |
-  | **Languages** | Python, Java, JavaScript|
-  | **Web Development** | HTML, CSS, React, Node.js, Express.js, Next.js, SpringBoot(Beginner) |
-  | **Databases** | MySQL, MongoDB, PostGres(Basic)|
+  | **Languages** | Python, Java, JavaScript |
+  | **Web Development** | HTML, CSS, React, Node.js, Express.js, Next.js |
+  | **Databases** | MySQL, MongoDB, PostgreSQL (Basic) |
+  | **AI/ML** | PyTorch, TensorFlow (Beginner), Face Encoding Projects |
   | **Tools & Platforms** | Git, GitHub, VS Code, Linux |
   
   ---
@@ -28,9 +29,15 @@
   
   Here are a few projects I've been working on. You can find more on my profile!
   
-  - <b>AppImage Manager:</b> AppImage Manager for managing (install/Uninstall permanently) standalone AppImage softwares.
-  - <b>Universal Media Downloader:</b> A Universal Media Downloader website that allows to download videos and other media files from websites.
-  - <b>Banking System:</b> Created a CLI-based Banking System with SQL and Java.
+  - <b>AppImage Manager for Ubuntu Linux:</b> Automates AppImage installation, creating organized folders and .desktop shortcuts.
+  - <b>Universal Media Downloader:</b> A website that allows downloading videos and media files from multiple websites.
+  - <b>Cortex Chat Assistant:</b> A JavaScript-based chat assistant project.
+  - <b>SkillTracker:</b> A Java-based project focused on tracking skills and progress.
+  - <b>CNProjects:</b> Collection of JavaScript projects and experiments.
+  - <b>PictoPy:</b> An image sorter that organizes photos using face encodings.
+  - <b>Banking System with SQL in Java:</b> CLI banking system using Java and SQL.
+  - <b>Currency Converter in Java:</b> Java application for currency conversion.
+  - <b>Music Player:</b> A small music player app with basic playback features.
   
   ---
   
