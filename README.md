@@ -30,6 +30,19 @@
   
   Here are my key original projects (resume + repos):
   
+  #### ⭐ Featured Projects
+  
+  - **RepoLens** — Codebase security and risk intelligence platform for analyzing repository security, dependencies, secrets, licenses, architecture, and AI-powered remediation insights.  
+    **Repo:** [RepoLens](https://github.com/rishabh98080/RepoLens)
+  
+  - **CodeSync** — Real-time collaborative coding platform with shared editing sessions, WebSocket synchronization, Monaco Editor, Spring Boot, React, TypeScript, and PostgreSQL.  
+    **Repo:** [Collaborative_Coding_Platform](https://github.com/rishabh98080/Collaborative_Coding_Platform)
+  
+  - **DataForge** — Full-stack data engineering and analytics workspace with FastAPI, Next.js, data pipelines, quality checks, ML support, search, and visualizations.  
+    **Repo:** [DataForge](https://github.com/rishabh98080/DataForge)
+  
+  #### Other Projects
+  
   - **RajhansEvents (Side Project)** — Event-focused web project; currently evolving with Next.js and personal CMS-style content workflows.  
     **Repo:** [rajhansevents](https://github.com/rishabh98080/rajhansevents)
   
